@@ -3,5 +3,5 @@
 ## 设计模式
 
 - ReAct
-- Plan and Solve
+- Plan and Execute
 - Reason without Observation
