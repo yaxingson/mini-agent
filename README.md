@@ -45,3 +45,20 @@ sequenceDiagram
 
 
 ### Reason without Observation
+
+### Workflow
+
+#### Prompt Chain
+
+#### Routing
+
+#### Parallelization
+
+#### Evaluator-optimizer
+
+
+
+
+
+
+
